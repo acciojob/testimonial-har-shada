@@ -2,8 +2,10 @@
 .container{
 	padding:30px;
 	
-	background-color:rgb(238, 239, 240);
-}
+	/*background-color:rgb(238, 239, 240);*/
+	/*background-color:   hsl(0, 13%, 94%);*/
+
+	background-color:   rgba(243, 242, 242, 0.897);
 .para1{
 	padding:10px 10px  10px ;
 	font-size:0.7rem;
