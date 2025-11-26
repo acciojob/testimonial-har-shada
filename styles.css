@@ -8,21 +8,19 @@
 /*background-color:   rgba(243, 242, 242, 0.897);*/
 	background-color: #f5f5f5;
 }
-.para1{
-	padding:10px 10px  10px ;
-	font-size:0.7rem;
-
-	border:1px solid  rgb(221, 226, 228);
+.testimonial{
+padding:10px;
+	border:1px solid rgb(221, 226, 228);
 	background-color:white;
+	margin-bottom: 15px; /* add spacing between boxes */
 	font-style:normal;
-	/*text-align:right;*/
 
 	
 }
 .author{
+	display:block;
 	text-align:right;
 	font-style:italic;
-	display:block;
 	
 	
 }
