@@ -1,26 +1,22 @@
-/*  your css code here. If applicable */
-.container{
-	padding:30px;
-	
-	/*background-color:rgb(238, 239, 240);*/
-	/*background-color:   hsl(0, 13%, 94%);*/
-
-/*background-color:   rgba(243, 242, 242, 0.897);*/
-	background-color: #f5f5f5;
+.container {
+    padding: 30px;
+    background-color: #f5f5f5;
 }
-.testimonial{
-padding:10px;
-	border:1px solid rgb(221, 226, 228);
-	background-color:white;
-	margin-bottom: 15px; /* add spacing between boxes */
-	font-style:normal;
 
-	
+.testimonial {
+    padding: 10px;
+    border: 1px solid rgb(221, 226, 228);
+    background-color: white;
+    margin-bottom: 15px;
 }
-.author{
-	display:block;
-	text-align:right;
-	font-style:italic;
-	
-	
+
+.testimonial p {
+    margin: 0; /* remove default margin from p */
+}
+
+.author {
+    display: block;
+    text-align: right;
+    font-style: italic;
+    margin-top: 5px;
 }
